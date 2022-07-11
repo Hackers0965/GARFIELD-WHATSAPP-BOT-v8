@@ -9,7 +9,7 @@ global.APIs = {
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {68b748d7-f3cb-491a-8cdb-e79362f1197a
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
@@ -18,18 +18,18 @@ global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 *ＮＯＩＺ Ξ*
 *I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
+*From MOROCCO 🇲🇦*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
+global.owner =  ['+212693944029'] //👈  Enter Your number
+global.premium =  ['+212693944029'] //👈  Enter Your number
+global.ownernomer = '+212693944029' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
 global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 MOHAMED 𝖡𝗈𝗍' //👈 Enter Your Name
+global.ig = 'https://instagram.com/mohamed__elhadri/' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
@@ -38,7 +38,7 @@ global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
+global.thumb =  'https://ibb.co/QCYN8dG' 
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
