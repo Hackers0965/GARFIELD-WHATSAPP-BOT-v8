@@ -4,12 +4,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
+global.APIs = {f8437dd51858
 	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {f8437dd51858
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
@@ -17,18 +17,18 @@ global.emoji01 = ['🐼'] // 👈 Enter your Emoji
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 *ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
+*I am 15 years old developer...*
+*From MOROCCO 🇲🇦*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
+global.owner =  ['+212693944029'] //👈  Enter Your number
+global.premium =  ['+212693944029'] //👈  Enter Your number
+global.ownernomer = '+212693944029' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
+global.botname = 'MOHAMED ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ELHADRI 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
@@ -56,7 +56,7 @@ global.mess = {
 // Do Not Change 👇 
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 999999999,
     monayawal: 1000
 }
    global.rpg = {
